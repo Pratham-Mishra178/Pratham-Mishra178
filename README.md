@@ -29,7 +29,7 @@
 
 ## 🧩 My Interests 
 
-Web development | Ui/Ux Designing | Linux
+Web development | Ui/Ux Designing | Linux | ML-AI
 
 ## 📞 Contact 
 
