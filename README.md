@@ -1,6 +1,12 @@
-![1620395931800](https://user-images.githubusercontent.com/78583437/119288533-56919680-bc66-11eb-876b-182afca168a0.jpg)
+ <h1 align="center">
+    "Any fool can write code that a computer can understand. Good programmers write code that human can understand."
+ </h1><br>
+ 
+ 
 # Hey there! I'm Pratham 👋
 
+  
+  
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Pratham-Mishra178)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Pratham-Mishra178)
 <img src="https://komarev.com/ghpvc/?username=pratham-mishra178&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-mishra178" />
