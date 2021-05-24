@@ -1,3 +1,4 @@
+![1620395931800](https://user-images.githubusercontent.com/78583437/119288533-56919680-bc66-11eb-876b-182afca168a0.jpg)
 # Hey there! I'm Pratham 👋
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Pratham-Mishra178)
