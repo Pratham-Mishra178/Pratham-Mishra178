@@ -3,7 +3,7 @@
  </h1><br>
  
  
-# Hey there! I'm Pratham 👋
+# Hey there! I'm Pratham <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
   
   
