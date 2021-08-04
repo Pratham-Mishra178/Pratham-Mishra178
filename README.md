@@ -15,7 +15,7 @@
 ## 💀 About me 
 
 ⚡ I am an ETC undergraduate student at Veer Surendra Sai University of Technology, Burla. <br>
-⚡ I ❤ Linux Codes. <br>
+⚡ I ❤ Linux. <br>
 ⚡ I am a front-end web developer and working harder to be a full-stack developer.
 
 
