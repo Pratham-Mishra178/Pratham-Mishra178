@@ -2,11 +2,9 @@
     "Any fool can write code that a computer can understand. Good programmers write code that human can understand."
  </h1><br>
 
-<center>
- 
-https://user-images.githubusercontent.com/78583437/147869164-ce6bd268-69c8-4e27-bec1-a598272c0bcd.mp4
- 
-</center>
+
+<a href="https://user-images.githubusercontent.com/78583437/147869164-ce6bd268-69c8-4e27-bec1-a598272c0bcd.mp4"/>
+
 
 <br>
  
