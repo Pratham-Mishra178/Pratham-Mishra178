@@ -3,7 +3,7 @@
  </h1><br>
  
  
-# Hey there! I'm Pratham <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey there! I'm Pratham <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="38px">
 
   
   
@@ -38,7 +38,7 @@
 
 Web development | Ui/Ux Designing | Linux | ML-AI
 
-## 📞 Contact <img width="50px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
+## 📞 Contact <img height="45px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"/>
 
 <a>[<img src="https://img.icons8.com/color/30/000000/whatsapp--v3.png"/>](https://wa.me/7970625661)</a>    <a>[<img src="https://img.icons8.com/fluent/30/000000/gmail-new.png"/>](mailto:prathammishra178@gmail.com)</a>    <a>[<img src="https://img.icons8.com/color/30/000000/twitter--v1.png"/>](https://twitter.com/pratish_kumar_1)</a>    <a>[<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/pratham-mishra-81a794204/)
 
